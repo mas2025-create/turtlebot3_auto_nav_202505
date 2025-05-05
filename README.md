@@ -4,7 +4,7 @@ Turtlebot3 が Gazebo 上の障害物を避けながらマップ内を自動巡�
 
 # 動作環境
 
-- Ubuntu 20.04
+- Ubuntu 22.04
 - ROS 2 humbl
 - Gazebo 11
 - turtlebot3_simulations
