@@ -1,0 +1,7 @@
+build/
+devel/
+install/
+*.pyc
+*.swp
+*.log
+*.launch~  # 編集途中の一時ファイル
